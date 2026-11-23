@@ -7,7 +7,12 @@ Google**, con la GPU gratuita de Colab cuando esté disponible. MiAtlas.cl no re
 
 | Cuaderno | Abrir |
 |---|---|
-| (todavía no hay cuadernos) | |
+| `00-que-es-colab.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/psalgadm7/miatlas-cuadernos/blob/main/cuadernos/00-que-es-colab.ipynb) |
+| `01-entorno.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/psalgadm7/miatlas-cuadernos/blob/main/cuadernos/01-entorno.ipynb) |
+| `02-archivos-y-drive.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/psalgadm7/miatlas-cuadernos/blob/main/cuadernos/02-archivos-y-drive.ipynb) |
+| `03-paquetes-y-comandos.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/psalgadm7/miatlas-cuadernos/blob/main/cuadernos/03-paquetes-y-comandos.ipynb) |
+| `04-secretos.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/psalgadm7/miatlas-cuadernos/blob/main/cuadernos/04-secretos.ipynb) |
+| `05-datos-y-graficos.ipynb` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/psalgadm7/miatlas-cuadernos/blob/main/cuadernos/05-datos-y-graficos.ipynb) |
 
 Licencia: [CC BY 4.0](LICENSE). Puedes reutilizar los cuadernos citando a MiAtlas.cl.
 
